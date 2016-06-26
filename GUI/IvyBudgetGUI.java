@@ -9,10 +9,7 @@ import java.awt.*;
 import TableController.IvyBudgetTableController;
         
 
-/**
- *
- * @author Ivy
- */
+
 public class IvyBudgetGUI extends javax.swing.JPanel {
       private JTable jtable1;
       private IvyBudgetTableController budgetTableController;

@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author yash
- */
+
 public class FacultyAdvisorFrame extends javax.swing.JFrame {
 
     /**

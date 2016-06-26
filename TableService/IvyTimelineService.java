@@ -7,10 +7,7 @@ package TableService;
 import javax.persistence.*;
 import java.util.*;
 import Entityclass.Timeline;
-/**
- *
- * @author Ivy
- */
+
 public class IvyTimelineService {
     private EntityManager manager;
     public IvyTimelineService(EntityManager manager){

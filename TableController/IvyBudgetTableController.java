@@ -14,10 +14,7 @@ import javax.swing.event.ListSelectionListener;
 import javax.swing.table.TableModel;
 import javax.swing.event.*;
 
-/**
- *
- * @author Ivy
- */
+
 public class IvyBudgetTableController implements ListSelectionListener, TableModelListener{
         private IvyBudgetTableModel tableModel;
 	private IvyBudgetGUI gui;

@@ -17,10 +17,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
-/**
- *
- * @author shreyasjaltare
- */
+
 public class TaskGUI extends javax.swing.JPanel {
 
     /**

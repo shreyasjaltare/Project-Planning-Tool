@@ -19,10 +19,7 @@ import javax.swing.event.TableModelEvent;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 
-/**
- *
- * @author yash
- */
+
 public class ViewTimelineController implements ListSelectionListener, TableModelListener {
 
     

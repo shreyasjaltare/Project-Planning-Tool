@@ -9,10 +9,7 @@ import java.awt.*;
 import TableController.IvyCommunicationTableController;
         
 
-/**
- *
- * @author Ivy
- */
+
 public class IvyCommunicationGUI extends javax.swing.JPanel {
       private JTable jtable1;
       private IvyCommunicationTableController communicationTableController;

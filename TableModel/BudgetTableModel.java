@@ -10,10 +10,7 @@ import java.util.*;
 import Entityclass.Budget;
 import Entityclass.ProjectInfor;
 import TableService.BudgetService;
-/**
- *
- * @author Ivy
- */
+
 public class BudgetTableModel extends AbstractTableModel{
           List<Budget> budgetResultList;   // stores the model data in a List collection of type Budget
 	  private static final String PERSISTENCE_UNIT_NAME = "PersistenceUnit";  // Used in persistence.xml

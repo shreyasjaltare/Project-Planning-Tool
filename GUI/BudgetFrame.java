@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author Ivy
- */
+
 public class BudgetFrame extends javax.swing.JFrame {
 
     /**

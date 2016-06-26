@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author Ivy
- */
+
 public class currentProjectInforFrame extends javax.swing.JFrame {
 
     /**

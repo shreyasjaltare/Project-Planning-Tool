@@ -8,10 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 import TableController.IvyTimelineController;
 
-/**
- *
- * @author Ivy
- */
+
 public class currentTimelineGUI extends javax.swing.JPanel {
 private JTable jtable1;
       private IvyTimelineController timelineController;

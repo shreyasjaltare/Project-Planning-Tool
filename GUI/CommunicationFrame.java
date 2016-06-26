@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author Ivy
- */
+
 public class CommunicationFrame extends javax.swing.JFrame {
 
     /**

@@ -7,10 +7,7 @@ package GUI;
 
 import TableController.ProjectInforController;
 
-/**
- *
- * @author yash
- */
+
 public class CurrentProjectsGui extends javax.swing.JPanel {
     ProjectInforController control;
     ManagerFrame mainFrame;

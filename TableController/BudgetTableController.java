@@ -17,10 +17,6 @@ import javax.swing.event.ListSelectionListener;
 import javax.swing.table.TableModel;
 import javax.swing.event.*;
 
-/**
- *
- * @author Ivy
- */
 public class BudgetTableController implements ListSelectionListener, TableModelListener{
         private BudgetTableModel tableModel;
 	private BudgetGUI gui;

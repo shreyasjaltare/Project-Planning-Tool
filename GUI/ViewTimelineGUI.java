@@ -9,10 +9,7 @@ import Entityclass.Timeline;
 import TableController.ViewTimelineController;
 import javax.swing.DefaultListModel;
 
-/**
- *
- * @author yash
- */
+
 public class ViewTimelineGUI extends javax.swing.JPanel {
 
     /**

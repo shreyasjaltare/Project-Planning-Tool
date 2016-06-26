@@ -8,10 +8,7 @@ import Entityclass.Budget;
 import javax.persistence.*;
 import java.util.*;
 import Entityclass.ProjectInfor;
-/**
- *
- * @author Ivy
- */
+
 public class IvyProjectInforService {
     private EntityManager manager;
     public IvyProjectInforService(EntityManager manager){

@@ -5,10 +5,6 @@
  */
 package TableService;
 
-/**
- *
- * @author shreyasjaltare
- */
 import javax.persistence.*;
 import java.util.*;
 import Entityclass.Task;

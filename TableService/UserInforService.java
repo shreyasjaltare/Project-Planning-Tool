@@ -5,10 +5,7 @@
  */
 package TableService;
 
-/**
- *
- * @author shreyasjaltare
- */
+
 import javax.persistence.*;
 import java.util.List;
 import Entityclass.UserInfor;

@@ -5,10 +5,7 @@
  */
 package TableController;
 
-/**
- *
- * @author shreyasjaltare
- */
+
 import GUI.TaskGUI;
 import TableModel.TaskTableModel;
 import Entityclass.Task;

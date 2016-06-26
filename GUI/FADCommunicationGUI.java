@@ -9,10 +9,7 @@ import java.awt.*;
 import TableController.FADCommunicationTableController;
         
 
-/**
- *
- * @author Ivy
- */
+
 public class FADCommunicationGUI extends javax.swing.JPanel {
       private JTable jtable1;
       private FADCommunicationTableController communicationTableController;

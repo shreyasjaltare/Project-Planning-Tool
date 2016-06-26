@@ -7,10 +7,7 @@ package GUI;
 import javax.swing.*;
 import java.awt.*;
 import TableController.IvyProjectInforController;
-/**
- *
- * @author Ivy
- */
+
 public class currentProjectGUI extends javax.swing.JPanel {
  private JTable jtable1;
       private IvyProjectInforController projectInforController;

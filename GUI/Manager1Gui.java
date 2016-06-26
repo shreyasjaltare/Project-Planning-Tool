@@ -11,10 +11,7 @@ import Entityclass.ProjectInfor;
 import TableController.ProjectInforController;
 import javax.swing.DefaultListModel;
 
-/**
- *
- * @author yash
- */
+
 public class Manager1Gui extends javax.swing.JPanel {
 
     /**

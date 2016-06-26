@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author Ivy
- */
+
 public class currentTimelineFrame extends javax.swing.JFrame {
 
     /**

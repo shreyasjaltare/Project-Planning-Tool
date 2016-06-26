@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author yash
- */
+
 public class ManagerFrame extends javax.swing.JFrame {
 
     /**

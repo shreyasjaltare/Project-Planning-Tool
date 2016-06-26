@@ -11,10 +11,6 @@ import java.awt.*;
 import TableController.BudgetTableController;
         
 
-/**
- *
- * @author Ivy
- */
 public class BudgetGUI extends javax.swing.JPanel {
        ManagerFrame mainFrame;
     Manager1Gui managerPanel;

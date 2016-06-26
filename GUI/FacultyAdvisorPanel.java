@@ -5,10 +5,7 @@
  */
 package GUI;
 
-/**
- *
- * @author yash
- */
+
 public class FacultyAdvisorPanel extends javax.swing.JPanel {
 
     /**

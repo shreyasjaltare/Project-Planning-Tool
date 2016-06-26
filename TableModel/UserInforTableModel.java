@@ -5,10 +5,7 @@
  */
 package TableModel;
 
-/**
- *
- * @author shreyasjaltare
- */
+
 
 import Entityclass.UserInfor;
 import TableService.UserInforService;

@@ -7,10 +7,7 @@ package TableService;
 import javax.persistence.*;
 import java.util.*;
 import Entityclass.Communication;
-/**
- *
- * @author Ivy
- */
+
 public class CommunicationService {
     private EntityManager manager;
     public CommunicationService(EntityManager manager){

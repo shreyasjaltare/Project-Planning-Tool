@@ -5,11 +5,7 @@
  */
 package TableController;
 
-/**
- *
- * @author shreyasjaltare
- * 
- */
+
 
 import GUI.UserInforGUI;
 import TableModel.UserInforTableModel;

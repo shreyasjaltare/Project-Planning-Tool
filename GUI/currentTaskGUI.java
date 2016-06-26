@@ -7,10 +7,7 @@ package GUI;
 import javax.swing.*;
 import java.awt.*;
 import TableController.TaskTableController;
-/**
- *
- * @author Ivy
- */
+
 public class currentTaskGUI extends javax.swing.JPanel {
 private JTable jtable1;
       private TaskTableController taskTableController;

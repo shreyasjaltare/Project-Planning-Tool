@@ -9,10 +9,7 @@ import javax.persistence.*;
 import java.util.*;
 import Entityclass.Communication;
 import TableService.IvyCommunicationService;
-/**
- *
- * @author Ivy
- */
+
 public class IvyCommunicationTableModel extends AbstractTableModel{
           List<Communication> communicationResultList;   // stores the model data in a List collection of type Communication
 	  private static final String PERSISTENCE_UNIT_NAME = "PersistenceUnit";  // Used in persistence.xml

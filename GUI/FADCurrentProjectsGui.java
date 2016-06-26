@@ -9,10 +9,7 @@ import Entityclass.ProjectInfor;
 import TableController.ProjectInforControllerFAD;
 import javax.swing.DefaultListModel;
 
-/**
- *
- * @author yash
- */
+
 public class FADCurrentProjectsGui extends javax.swing.JPanel {
     ProjectInforControllerFAD control;
     

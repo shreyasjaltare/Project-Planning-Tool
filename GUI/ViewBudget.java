@@ -10,10 +10,7 @@ import java.awt.*;
 import TableController.ViewBudgetTableController;
         
 
-/**
- *
- * @author Ivy
- */
+
 public class ViewBudget extends javax.swing.JPanel {
        FacultyAdvisorFrame mainFrame;
     FacultyAdvisorPanel facultyAdvisorPanel;

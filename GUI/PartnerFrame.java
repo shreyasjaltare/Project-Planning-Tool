@@ -15,10 +15,7 @@ import TableService.IvyProjectInforService;
 import TableService.IvyTimelineService;
 import java.awt.Color;
 import javax.swing.DefaultListModel;
-/**
- *
- * @author Ivy
- */
+
 public class PartnerFrame extends javax.swing.JFrame { 
                 
                   

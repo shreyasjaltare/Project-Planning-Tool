@@ -12,10 +12,7 @@ import TableService.TaskService;
 import TableService.IvyTimelineService;
 import javax.swing.*;
 import java.awt.*;
-/**
- *
- * @author Ivy
- */
+
 public class StudentFrame extends javax.swing.JFrame {
 
     /**
